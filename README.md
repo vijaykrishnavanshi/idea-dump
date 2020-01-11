@@ -20,3 +20,5 @@ I personally have a process through which every idea I have goes through:
 - [ ] Infrastructure/Platform for listing and using nationally available services through internet
 - [ ] Green Cover Initiative with Advertisement point of view
 - [ ] Live Guide to beginner in computer science
+
+PS: I am always open to collaboration or discussion on any of the above ideas. Just open a issue or shoot me an email, whatever works for you.
