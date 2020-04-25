@@ -21,4 +21,4 @@ I personally have a process through which every idea I have goes through:
 - [ ] Green Cover Initiative with Advertisement point of view
 - [ ] Live Guide to beginner in computer science
 
-PS: I am always open to collaboration or discussion on any of the above ideas. Just open a issue or shoot me an email, whatever works for you.
+PS: I am always open to collaboration or discussion on any idea. Just open an issue or shoot me an email, whatever works for you.
