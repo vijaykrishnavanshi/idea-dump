@@ -20,5 +20,13 @@ I personally have a process through which every idea I have goes through:
 - [ ] Infrastructure/Platform for listing and using nationally available services through internet
 - [ ] Green Cover Initiative with Advertisement point of view
 - [ ] Live Guide to beginner in computer science
+- [ ] One Payment App - All wallets / UPI / Cards (Decentralised)
+- [ ] Implement Rapid package for Deno - alternative to express
+- [ ] GraphQL Server with HTTP/2 as transport
+- [ ] Implement GraphQL Schema visualizer - good if it works with the apollo or other available servers
+- [ ] Vacant seat identification using CCTV Camera
+- [ ] Create P2P CDN using the WebRTC APIs
+- [ ] Domain specific Industry Checklist (Up to date with industry practices) - Schools / Colleges should enforce students to tick all the boxes before graduating.
+- [ ] Fast series for Different Languages similar to fastAI course
 
 PS: I am always open to collaboration or discussion on any idea. Just open an issue or shoot me an email, whatever works for you.
