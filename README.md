@@ -1,9 +1,6 @@
 # Ideas
 
-We all have ideas that never see the day of light in your life time. This projects is to gather them and hope that someone else has the time and energy to work on thoses ideas.
-
-I personally have a process through which every idea I have goes through:
-![Idea](images/Idea.svg "Idea Lifecycle")
+This is a project to gather all the ideas that I have but don't have time to work on. If you are interested feel free to pick them up and ping me if you need any help. 
 
 ## List of Ideas
 
