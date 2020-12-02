@@ -1,6 +1,6 @@
 # Ideas
 
-This is a project to gather all the ideas that I have but don't have time to work on. If you are interested feel free to pick them up and ping me if you need any help. 
+This is a project to gather all the ideas that I have but don't have time to work on. If you are interested feel free to pick them up and ping me if you need me to elaborate.  
 
 ## List of Ideas
 
